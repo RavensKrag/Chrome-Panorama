@@ -1,0 +1,15 @@
+Implement Firefox's Panarama function using the power of HTML5
+	Canvas tag, SVG, etc
+	
+	
+Allow pinned tabs to exist outside of the panarama structure
+	Pinned tabs are not saved by the extension
+
+	The extension in meant to be used in conjunction with the
+	"open tabs used last time" function of Chrome.
+		Building off of this, the extension should have a default
+		space that starts with Chrome.
+			Implement this perhaps with a temp file which is created
+			on startup
+				If the file is there, a new session of Chrome has been
+				started, so load the default space.
