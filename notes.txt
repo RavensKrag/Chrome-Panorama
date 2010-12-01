@@ -25,4 +25,9 @@ Build timeout on "workspaces"
 	
 	I don't think memory can be assessed directly, so it will have to be assumed to be a f(x) of
 	the number of tabs
+
+Restore a workspace on startup
+	This could be a default workspace, or the last workspace used.
+	
+	Could merely be the panarama view.
 	
