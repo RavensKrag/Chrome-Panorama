@@ -13,3 +13,16 @@ Allow pinned tabs to exist outside of the panarama structure
 			on startup
 				If the file is there, a new session of Chrome has been
 				started, so load the default space.
+Save tabs as bookmarks
+	Has the side benefit of allowing the extension to sync across multiple computers.
+	Also, it would make it pretty easy to move tabs to non-active "workspaces"
+	
+Allow multiple "workspaces" open at once
+	Different windows, different "workspaces"
+
+Build timeout on "workspaces"
+	Tabs will stay open for a little bit before closing, unless memory is a concern.
+	
+	I don't think memory can be assessed directly, so it will have to be assumed to be a f(x) of
+	the number of tabs
+	
