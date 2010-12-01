@@ -31,3 +31,17 @@ Restore a workspace on startup
 	
 	Could merely be the panarama view.
 	
+	
+Alternative structure - Multiple buttons acting together
+	Storage
+		Show the current stack of where to store tabs
+	Push
+		Push to the stack specified by storage
+	Pop
+		Pop the most recent one in storage
+	Active
+		Show the active workspace on mouseover
+		Switch workspaces with menu on click
+			Allow for multi-column menu
+	
+	
