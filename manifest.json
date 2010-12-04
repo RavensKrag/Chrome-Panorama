@@ -1,5 +1,5 @@
 {
-  "name": "Tab Sugar - Rewrite",
+  "name": "Chrome-Panorama",
   "version": "0.00.1",
   "description": "Like Panorama from Firefox, but implemented in Chrome with HTML5",
   "browser_action": {
