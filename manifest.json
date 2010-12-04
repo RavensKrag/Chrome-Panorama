@@ -1,0 +1,12 @@
+{
+  "name": "Tab Sugar - Rewrite",
+  "version": "0.00.1",
+  "description": "Like Panorama from Firefox, but implemented in Chrome with HTML5",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "bookmarks",
+	"tabs"
+  ]
+}
