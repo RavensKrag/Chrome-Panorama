@@ -5,14 +5,14 @@
 	}
 	
 	"error": {
-	  "message": "Error: $details$",
-	  "description": "Generic error template. Expects error parameter to be passed in.",
-	  "placeholders": {
-	    "details": {
-	      "content": "$1",
-	      "example": "Failed to fetch RSS feed."
-	    }
-	  }
+		"message": "Error: $details$",
+		"description": "Generic error template. Expects error parameter to be passed in.",
+		"placeholders": {
+			"details": {
+				"content": "$1",
+				"example": "Failed to fetch RSS feed."
+			}
+		}
 	}
 }
 
