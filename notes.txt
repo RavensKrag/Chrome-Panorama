@@ -25,7 +25,11 @@ Build timeout on "workspaces"
 	
 	I don't think memory can be assessed directly, so it will have to be assumed to be a f(x) of
 	the number of tabs
-	
+
+Allow searching
+	Search tab names
+	Search workspace names?
+
 Prevent opening the same page twice
 	Bookmark the page when the page is opened
 	Before that, make sure that the bookmark does not already exist
